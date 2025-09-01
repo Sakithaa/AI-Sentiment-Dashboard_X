@@ -1,0 +1,5 @@
+# Ignore Python virtual environment files
+Py_Env/
+
+# Ignore sensitive configuration file
+config.py
