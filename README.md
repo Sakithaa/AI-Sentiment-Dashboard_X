@@ -37,7 +37,7 @@ The goal of this project is to track public opinion about AI in real-time using 
     - Summary Metrics (average sentiment, total tweets, % distribution)
 - Run with:
     streamlit run scripts/3.streamlit_sentiment_dashboard.py
-- Opens at: http://localhost:8501
+
 
 ## Usage
 - Create & Activate Environment
